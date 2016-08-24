@@ -1,0 +1,9 @@
+[submodule "nubomedia-nova-docker"]
+	path = nubomedia-nova-docker
+	url = https://github.com/nubomedia/nubomedia-nova-docker.git
+[submodule "nubomedia-autonomous-installer"]
+	path = nubomedia-autonomous-installer
+	url = https://github.com/nubomedia/nubomedia-autonomous-installer.git
+[submodule "kms-monitoring-java"]
+	path = kms-monitoring-java
+	url = https://github.com/nubomedia/kms-monitoring-java.git
