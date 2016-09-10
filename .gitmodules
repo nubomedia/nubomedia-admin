@@ -7,3 +7,6 @@
 [submodule "kms-monitoring-java"]
 	path = kms-monitoring-java
 	url = https://github.com/nubomedia/kms-monitoring-java.git
+[submodule "nubomedia-benchmark"]
+	path = nubomedia-benchmark
+	url = https://github.com/nubomedia/nubomedia-benchmark.git
