@@ -10,3 +10,6 @@
 [submodule "nubomedia-benchmark"]
 	path = nubomedia-benchmark
 	url = https://github.com/nubomedia/nubomedia-benchmark.git
+[submodule "nubomedia-network-benchmark"]
+	path = nubomedia-network-benchmark
+	url = https://github.com/nubomedia/nubomedia-network-benchmark
